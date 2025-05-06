@@ -1,25 +1,37 @@
 # 👋 Olá! Eu sou o Guilherme Souza
 
-Sou desenvolvedor(a) de sistemas com foco em [Java | Kotlin | Python], apaixonado por tecnologia, boas práticas e soluções eficientes.
+Sou desenvolvedor(a) de sistemas com foco em [Java | Python], apaixonado por tecnologia, boas práticas e soluções eficientes.
 
-- 🎓 Formação: Cursando Informatica, 5° período.
+- 🎓 Formação: Cursando Informática, 5° período.
 - 💼 Interesse: Desenvolvimento backend, APIs, microsserviços, sistemas bancários.
-- 🌱 Atualmente aprendendo: Spring Boot, Docker e Clean Architecture.
+- 🌱 Atualmente aprendendo: Spring Boot e Docker.
 - 🚀 Buscando oportunidades como Dev Backend Jr.
 
-## 🛠️ Tecnologias
+## 📊 Tecnologias
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+<table>
+  <tr>
+    <td>
+      <img
+        alt="GitHub Stats"
+        width="400"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api?username=GuilhermeeDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+      />
+    </td>
+    <td>
+      <img
+        alt="Top Langs"
+        width="400"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeeDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
+      />
+    </td>
+  </tr>
+</table>
+
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seuusuario)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seuusuario)
 [![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:seuemail@gmail.com)
-
-
----
-
