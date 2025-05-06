@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Guilherme Souza
 
-<!--
-**GuilhermeeDev/GuilhermeeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor(a) de sistemas com foco em [Java | Kotlin | Python], apaixonado por tecnologia, boas práticas e soluções eficientes.
 
-Here are some ideas to get you started:
+- 🎓 Formação: Cursando Informatica, 5° período.
+- 💼 Interesse: Desenvolvimento backend, APIs, microsserviços, sistemas bancários.
+- 🌱 Atualmente aprendendo: Spring Boot, Docker e Clean Architecture.
+- 🚀 Buscando oportunidades como Dev Backend Jr.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seuusuario)  
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:seuemail@gmail.com)
+
+
+---
+
