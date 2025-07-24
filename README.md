@@ -1,11 +1,8 @@
 # 👋 Olá! Eu sou o Guilherme Souza
 
-Sou desenvolvedor(a) de sistemas com foco em [Java | Python], apaixonado por tecnologia, boas práticas e soluções eficientes.
-
+Sou desenvolvedor(a) de sistemas com foco em [Java | Python].
 - 🎓 Formação: Cursando Informática, 5° período.
-- 💼 Interesse: Desenvolvimento backend, APIs, microsserviços, sistemas bancários.
-- 🌱 Atualmente aprendendo: Spring Boot e Docker.
-- 🚀 Buscando oportunidades como Dev Backend Jr.
+- 💼 Interesse: Desenvolvimento backend, Saas, Micro-Saas.
 
 ## 📊 Tecnologias
 
