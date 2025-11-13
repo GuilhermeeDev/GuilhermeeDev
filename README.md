@@ -1,8 +1,6 @@
-# 👋 Olá! Eu sou o Guilherme Souza
+# Olá! Eu sou o Guilherme Souza.
 
-Sou desenvolvedor(a) de sistemas com foco em [Java | Python].
-- 🎓 Formação: Cursando Informática, 5° período.
-- 💼 Interesse: Desenvolvimento backend, Saas, Micro-Saas.
+Sou desenvolvedor Backend a mais de 1 ano, atualmente com foco em Java e Spring Boot.
 
 ## 📊 Tecnologias
 
@@ -31,4 +29,4 @@ Sou desenvolvedor(a) de sistemas com foco em [Java | Python].
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seuusuario)
-[![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:guilherme.souza.desenvolvedor@gmail.com)
