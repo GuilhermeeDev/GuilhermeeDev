@@ -73,7 +73,7 @@
 
   <!-- Row 2: Streak Stats + Top Languages -->
   <a href="https://github.com/GuilhermeeDev" target="_blank" style="margin-right:16px;">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Guilherme streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=GuilhermeeDev&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="162px"/>
+      <img alt="Guilherme streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=GuilhermeeDev&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="162px"/>
   </a>
 
   <a href="https://github.com/GuilhermeeDev" target="_blank">
