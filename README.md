@@ -2,11 +2,9 @@
 
 **`Desenvolvedor Backend`**  **`Java`** **`TypeScript`** **`Bash`** **`Linux`**
 
-Me chamo Guilherme Souza, tenho 18 anos. Conclui o ensino médio no IFMS, com o curso técnico em informática. Sou desenvolvedor backend a mais de 1 ano. Tenho familiaridade com funções como desenvolvedor backend web, desenvolvedor desktop, automatização e configuração de linux server e desktop. 
+Me chamo Guilherme, tenho 18 anos. Conclui o ensino médio no IFMS, com o curso técnico em informática. Sou desenvolvedor backend a mais de 1 ano. Tenho familiaridade com funções como desenvolvedor backend web, desenvolvedor desktop, automatização e configuração de linux server e desktop. 
 
 <a href="https://www.linkedin.com/in/guilherme-souza-desenvolvedor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-              
 
 ---
 
@@ -109,25 +107,6 @@ Me chamo Guilherme Souza, tenho 18 anos. Conclui o ensino médio no IFMS, com o 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 
-<!-- Redis -->
-<img 
-    align="left" 
-    alt="Redis" 
-    title="Redis"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" 
-/>
-
-<!-- RabbitMQ -->
-<img 
-    align="left" 
-    alt="RabbitMQ" 
-    title="RabbitMQ"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" 
-/>
 <!-- Docker -->
 <img 
     align="left" 
