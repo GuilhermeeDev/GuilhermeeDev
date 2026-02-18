@@ -5,7 +5,7 @@
     <strong>me chamo Guilherme Souza</strong>
   </h1>
   <p>
-    🚀 Desenvolvedor Backend | 🌍 Contribuidor Open-Source
+    🖥️ Desenvolvedor Backend | 🌍 Contribuidor Open-Source
   </p>
 </div>
 <p align="center">
