@@ -5,7 +5,7 @@
     <strong>me chamo Guilherme Souza</strong>
   </h1>
   <p>
-    🖥️ Desenvolvedor Backend | 🌍 Contribuidor Open-Source
+    🖥️ Desenvolvedor Backend | 🌍 Contribuidor Open-Source | 🧑‍💻 Programação competitiva
   </p>
 </div>
 <p align="center">
@@ -28,7 +28,6 @@
 
 ## 📚 Tecnologias
 
-### 🧩 Linguagens & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
